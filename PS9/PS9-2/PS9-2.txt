@@ -1,0 +1,10 @@
+Values obtained from calculations are
+
+v = 3.336 m/s
+
+and
+
+x = 0.172 m
+
+It's hard to tell from the graphs but it appears to be similar with
+the values we calculated.
